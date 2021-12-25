@@ -10,7 +10,7 @@ public class LinkedList_q {
          Scanner in_id = new Scanner(System.in);
         LinkedList<String> linkList_name = new LinkedList<>();
         LinkedList<String> linkList_id = new LinkedList<>();
-        for(int a = 0 ;a<2;a++)
+        for(int a = 0 ;a<4;a++)
         {
             System.out.print("Enter the name : ");
               linkList_name.add(in_naem.next());
