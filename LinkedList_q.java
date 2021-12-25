@@ -3,7 +3,6 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 public class LinkedList_q {
-
     public static void main(String[] args) 
     {
          Scanner in_naem = new Scanner(System.in);
